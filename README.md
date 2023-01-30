@@ -1,6 +1,6 @@
 [AHAAkumbom/](https://github.com/AHAAkumbom/AHAAkumbom)README.md
 - 👋 Hi, I’m @AHAAkumbom
-- 👀 I’m a Data Analyst and Tech enthusiast
+- 👀 I’m a Data Analyst | Data Scientist and Tech enthusiast
 - 🌱 I currently use Python to complement SQL and Power BI in data querrying, manipulation and visualization.
 - 💞️ I’m looking to collaborate on projects that would help me improve my skills and experience.
 - 📫 How to reach me :
