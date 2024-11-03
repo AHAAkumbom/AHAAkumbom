@@ -47,8 +47,10 @@ My background in dentistry fuels my passion for health-focused data science proj
 ---
 
 ## 📫 Connect with Me
+<a href="https://linkedin.com/in/achumbom-haggai-akumbom-695b361a7/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30"/>
+</a>
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/achumbom-haggai-akumbom-695b361a7/)
 [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/haggaiakumbom)
 
 Feel free to reach out for collaborations, discussions, or connect! I’m excited to work together on projects that push the boundaries of health data science.  
