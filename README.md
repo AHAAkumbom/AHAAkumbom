@@ -18,6 +18,7 @@ I love uncovering insights through data and leveraging tech to improve healthcar
 
 ### Programming Languages
 - **Python** (primary language for data analysis and machine learning)
+- **R**
 - **SQL** (for database querying)
   
 ### Data Analysis & Visualization
@@ -33,8 +34,7 @@ I love uncovering insights through data and leveraging tech to improve healthcar
 
 ## 📜 Certifications
 - **Data Scientist Professional Certification** – DataCamp
-- **Data Analysis in Python** – DataCamp
-- **Machine Learning Essentials** – [Insert institution if any]
+- **Data Analyst Certification** – Udacity
 
 ---
 
@@ -49,6 +49,13 @@ My background in dentistry fuels my passion for health-focused data science proj
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/achumbom-haggai-akumbom-695b361a7/)
 [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/haggaiakumbom)
 
-Feel free to reach out for collaborations, discussions, or just to connect! I’m excited to work together on projects that push the boundaries of health data science. 
+Feel free to reach out for collaborations, discussions, or connect! I’m excited to work together on projects that push the boundaries of health data science. 
 ---
+| **Programming Languages** | **Data Visualization Tools** | **Statistical Software** | **Machine Learning / Big Data** | **Health-Specific Platforms** |
+|---------------------------|------------------------------|--------------------------|---------------------------------|-------------------------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/SAS_logo_horiz.svg" alt="SAS" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Epic_Systems_logo.svg" alt="Epic" width="30"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Cerner_logo.svg" alt="Cerner" width="30"/> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly-logo-01-square.png" alt="Plotly" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Stata_logo.png" alt="STATA" width="30"/> |  | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/REDCap_logo.png" alt="REDCap" width="30"/> |
+|  |  |  |  | <img src="https://www.ohdsi.org/wp-content/uploads/2015/09/OHDSI-Logo-250x250.png" alt="OHDSI" width="30"/> |
+
 Thanks for visiting, and happy coding!
