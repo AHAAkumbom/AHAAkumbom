@@ -50,12 +50,31 @@ My background in dentistry fuels my passion for health-focused data science proj
 [![Kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)](https://www.kaggle.com/haggaiakumbom)
 
 Feel free to reach out for collaborations, discussions, or connect! I’m excited to work together on projects that push the boundaries of health data science. 
----
-| **Programming Languages** | **Data Visualization Tools** | **Statistical Software** | **Machine Learning / Big Data** | **Health-Specific Platforms** |
-|---------------------------|------------------------------|--------------------------|---------------------------------|-------------------------------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/SAS_logo_horiz.svg" alt="SAS" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Epic_Systems_logo.svg" alt="Epic" width="30"/> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Cerner_logo.svg" alt="Cerner" width="30"/> |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly-logo-01-square.png" alt="Plotly" width="30"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Stata_logo.png" alt="STATA" width="30"/> |  | <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/REDCap_logo.png" alt="REDCap" width="30"/> |
-|  |  |  |  | <img src="https://www.ohdsi.org/wp-content/uploads/2015/09/OHDSI-Logo-250x250.png" alt="OHDSI" width="30"/> |
+### Programming Languages
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> Python  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> R  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> SQL  
 
+### Data Visualization Tools
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="30"/> Tableau  
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/> Power BI  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly-logo-01-square.png" alt="Plotly" width="30"/> Plotly  
+
+### Statistical Software
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/SAS_logo_horiz.svg" alt="SAS" width="30"/> SAS  
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/SPSS_logo.svg" alt="SPSS" width="30"/> SPSS  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Stata_logo.png" alt="STATA" width="30"/> STATA  
+
+### Machine Learning / Big Data
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="30"/> Apache Spark  
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="30"/> Hadoop  
+<img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" alt="Anaconda" width="30"/> Anaconda  
+
+### Health-Specific Platforms
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Epic_Systems_logo.svg" alt="Epic" width="30"/> Epic  
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Cerner_logo.svg" alt="Cerner" width="30"/> Cerner  
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/REDCap_logo.png" alt="REDCap" width="30"/> REDCap  
+<img src="https://www.ohdsi.org/wp-content/uploads/2015/09/OHDSI-Logo-250x250.png" alt="OHDSI" width="30"/> OHDSI  
+
+---
 Thanks for visiting, and happy coding!
