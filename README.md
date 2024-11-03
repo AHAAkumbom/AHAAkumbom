@@ -18,9 +18,9 @@ I love uncovering insights through data and leveraging tech to improve healthcar
 
 ### Programming Languages
 ### Programming Languages
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> **Python** (primary language for data analysis and machine learning)
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> **R**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> **SQL** (for database querying) 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> **Python** (primary language for data analysis and machine learning)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> **R**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> **SQL** (for database querying) 
  
 ### Data Analysis & Visualization
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="30"/> **Power BI**: Interactive dashboards and data storytelling
