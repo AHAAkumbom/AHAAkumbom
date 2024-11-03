@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile! 👋
-Hi, I’m **@AHAAkumbom** – a Dentist turned **Data Scientist**  passionate about **Research**, **Artificial Intelligence**,**Health Data Science** and **💡 More**.. 
+Hi, I’m **@AHAAkumbom** – a Dentist|**Data Scientist**  passionate about **Research**, **Artificial Intelligence**,**Health Data Science** and **💡 More**.. 
 
 I love uncovering insights through data and leveraging tech to improve healthcare solutions. As a **DataCamp-certified Data Scientist**, I'm skilled in analyzing, visualizing, and deriving meaningful insights from data, especially in health-related fields.
 
@@ -14,9 +14,6 @@ I love uncovering insights through data and leveraging tech to improve healthcar
 
 ---
 
-## 🛠 Technical Skills
-
-### Programming Languages
 ### Programming Languages
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/> **Python** (primary language for data analysis and machine learning)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="30"/> **R**
